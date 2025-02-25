@@ -20,7 +20,7 @@ Key accomplishments:
 
 ## My Projects
 
-### [Weather Forecast App](./Project-1/)
+### [Weather Forecast App](https://github.com/kalyani-Goda/cs-626)
 A responsive weather application built with React that provides real-time weather data.
 
 ## Contact
