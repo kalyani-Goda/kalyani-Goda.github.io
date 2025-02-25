@@ -1,5 +1,5 @@
 # Goda Nagakalyani
-Welcome to my personal portfolio! I’m a IIT Bomaby MS by Research graduate in CSE Deparment.
+Welcome to my personal portfolio! I’m an MS by Research graduate in the CSE Department at IIT Bombay.
 
 ## About Me
 LLM Researcher and AI Engineer specializing in large language models, prompt engineering, and AI applications in educational technology. Passionate about pushing the boundaries of LLM applications and building practical AI systems that solve real-world problems.
