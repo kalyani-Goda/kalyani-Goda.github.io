@@ -18,5 +18,10 @@ Key accomplishments:
 - Python
 - GitHub & Git
 
+## My Projects
+
+### [Weather Forecast App](./Project-1/)
+A responsive weather application built with React that provides real-time weather data.
+
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/naga-kalyani-goda/) or [GitHub](https://github.com/kalyani-Goda).
