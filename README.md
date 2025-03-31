@@ -23,5 +23,17 @@ Key accomplishments:
 ### [Weather Forecast App](https://github.com/kalyani-Goda/cs-626)
 A responsive weather application built with React that provides real-time weather data.
 
+### [AI-Driven ML Pipeline for Continuous Training and Subjective Grading](https://github.com/kalyani-Goda/Bodhitree_AI_Server)
+An AI-powered automated grading system integrated within the Bodhitree e-learning
+platform of IIT Bombay.
+
+- Designed and deployed an AI assistant for source code grading using fine-tuned
+CodeLlama-7B.
+
+- Reduced TA workload by 25% through AI-suggested grades and automated grading
+pipelines.
+
+- Technology Used: Python, Django, Rest API, Hugging face, PyTorch, MLflow.
+
 ## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/in/naga-kalyani-goda/) or [GitHub](https://github.com/kalyani-Goda).
